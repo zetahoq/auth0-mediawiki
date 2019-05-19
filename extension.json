@@ -1,7 +1,8 @@
 {
-	"name": "MW-OAuth2Client",
+	"name": "auth0-mediawiki",
 	"version": "0.3",
 	"author": [
+		"[http://talkitup.co Eric Brogdon]",
 		"[http://dekeijzer.org Joost de Keijzer]",
 		"[https://www.mediawiki.org/wiki/User:Nischayn22 Nischay Nahata]",
 		"[https://star-made.org Schine GmbH]"
